@@ -13,7 +13,6 @@ const WatchPage = () => {
     dispatch(closeMenu());
   }, []);
 
-  console.log(videoId.get("v"));
   return (
     <div className="w-full">
       <div className="flex">

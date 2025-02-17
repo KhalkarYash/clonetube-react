@@ -86,7 +86,6 @@ const CommentsContainer = () => {
 
   const Comment = ({ data }) => {
     const { name, comment, replies } = data;
-    console.log(name, comment, replies);
     return (
       <div className="flex p-2">
         <div className="p-2 mt-0 h-14 w-14">
