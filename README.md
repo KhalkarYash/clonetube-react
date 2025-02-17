@@ -1,6 +1,8 @@
 # **CloneTube** 🎥 | A YouTube Clone  
 
-CloneTube is a YouTube clone built using **React.js, Redux, Tailwind CSS, and the YouTube API**. It replicates core YouTube functionalities like video search, recommendations, and live chat, offering a sleek and responsive user experience.  
+CloneTube is a YouTube clone built using **React.js, Redux, Tailwind CSS, and the YouTube API**. It replicates core YouTube functionalities like video search, and live chat, offering a sleek and responsive user experience.
+---
+A basic working prototype with only homepage videos opening and suggestions only on search bar  
 
 ---
 
